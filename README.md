@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
