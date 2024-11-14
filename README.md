@@ -3,7 +3,7 @@
 <h3 align="center">A passionate [Tvoja pozicija] from [Tvoja lokacija]</h3>  
 <img align="right" alt="Coding" width="400" src="Tvoj_slikovni_gif" />  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TvojeUsername&label=Profile%20views&color=0e75b6&style=flat" alt="TvojeUsername" /> </p>
+<p align="left"> <img src=""https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"" alt="TvojeUsername" /> </p>
 
 <p align="left"> <a href="https://twitter.com/TvojeTwitter" target="blank"><img src="https://img.shields.io/twitter/follow/TvojeTwitter?logo=twitter&style=for-the-badge" alt="TvojeTwitter"  </p>
 
