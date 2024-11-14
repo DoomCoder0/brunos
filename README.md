@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/TvojeTwitter" target="blank"><img src="https://img.shields.io/twitter/follow/TvojeTwitter?logo=twitter&style=for-the-badge" alt="TvojeTwitter"  </p>
 
-- 🔭 I’m currently working on **[Tvoj projekat]**  
-- 🌱 I’m currently learning **[Tvoja trenutna tehnologija]**  
-- 💬 Ask me about **[Tvoje oblasti ekspertize]**  
-- 📫 How to reach me **[Tvoj email]**  
-- ⚡ Fun fact **[Tvoj zanimljiv podatak]**  
+- 💬 Ask me about **react,angular,python,django**
+
+- 📫 How to reach me **obradovicbruno5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
