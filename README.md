@@ -1,6 +1,6 @@
 ![Header Image](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)  
-<h1 align="center">Hi 👋, I'm [Tvoje ime]</h1>  
-<h3 align="center">A passionate [Tvoja pozicija] from [Tvoja lokacija]</h3>  
+<h1 align="center">Hi 👋, I'm Bruno</h1>
+<h3 align="center">A passionate fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />  
 
 <p align="left"> <a href="https://twitter.com/TvojeTwitter" target="blank"><img src="https://img.shields.io/twitter/follow/TvojeTwitter?logo=twitter&style=for-the-badge" alt="TvojeTwitter"  </p>
