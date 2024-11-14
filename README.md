@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doomcoder0&label=Profile%20views&color=0e75b6&style=flat" alt="doomcoder0" /> </p>
 
-- 💬 Ask me about **react,angular,python,django**
+- 💬 Ask me about **react, angular, python, django**
 
 - 📫 How to reach me **obradovicbruno5@gmail.com**
 
@@ -41,8 +41,17 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doomcoder0&show_icons=true&locale=en&layout=compact" alt="doomcoder0" /></p>
+<!-- Stats Section -->
+<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+  <div style="text-align: center; width: 45%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=doomcoder0&show_icons=true&locale=en" alt="doomcoder0" />
+  </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doomcoder0&show_icons=true&locale=en" alt="doomcoder0" /></p>
+  <div style="text-align: center; width: 45%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=doomcoder0&" alt="doomcoder0" />
+  </div>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doomcoder0&" alt="doomcoder0" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doomcoder0&show_icons=true&locale=en&layout=compact" alt="doomcoder0" />
+</p>
