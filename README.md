@@ -1,10 +1,11 @@
-https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
+<p align="center">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
+</p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=doomcoder0&label=Profile%20views&color=0e75b6&style=flat" alt="doomcoder0" />
 </p>
 
@@ -44,14 +45,14 @@ https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif
   </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doomcoder0&show_icons=true&locale=en&layout=compact" alt="doomcoder0" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doomcoder0&show_icons=true&locale=en&layout=compact" alt="doomcoder0" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=doomcoder0&show_icons=true&locale=en" alt="doomcoder0" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=doomcoder0&show_icons=true&locale=en" alt="doomcoder0" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doomcoder0&" alt="doomcoder0" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doomcoder0&" alt="doomcoder0" />
 </p>
