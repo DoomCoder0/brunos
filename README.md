@@ -1,9 +1,9 @@
 ![Header Image](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)  
 <h1 align="center">Hi 👋, I'm [Tvoje ime]</h1>  
 <h3 align="center">A passionate [Tvoja pozicija] from [Tvoja lokacija]</h3>  
-<img align="right" alt="Coding" width="400" src="Tvoj_slikovni_gif" />  
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />  
 
-<p align="left"> <img src=""https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"" alt="TvojeUsername" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/TvojeTwitter" target="blank"><img src="https://img.shields.io/twitter/follow/TvojeTwitter?logo=twitter&style=for-the-badge" alt="TvojeTwitter"  </p>
 
