@@ -1,4 +1,4 @@
-![Header Image](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)  
+![Header Image](https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif)  
 <h1 align="center">Hi 👋, I'm [Tvoje ime]</h1>  
 <h3 align="center">A passionate [Tvoja pozicija] from [Tvoja lokacija]</h3>  
 <img align="right" alt="Coding" width="400" src="Tvoj_slikovni_gif" />  
