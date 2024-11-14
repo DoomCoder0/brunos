@@ -42,16 +42,18 @@
 </p>
 
 <!-- Stats Section -->
-<div style="display: flex; justify-content: space-around; margin-top: 20px;">
-  <div style="text-align: center; width: 45%;">
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+  <div style="text-align: center; width: 45%; padding-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=doomcoder0&show_icons=true&locale=en" alt="doomcoder0" />
   </div>
 
-  <div style="text-align: center; width: 45%;">
+  <div style="text-align: center; width: 45%; padding-left: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=doomcoder0&" alt="doomcoder0" />
   </div>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doomcoder0&show_icons=true&locale=en&layout=compact" alt="doomcoder0" />
-</p>
+<!-- Improved Most Used Languages Section -->
+<div style="margin-top: 30px; text-align: center;">
+  <h3>Most Used Languages:</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doomcoder0&show_icons=true&locale=en&layout=compact" alt="doomcoder0" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+</div>
