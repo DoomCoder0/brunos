@@ -1,20 +1,30 @@
 ![Header Image](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)  
-<h1 align="center">Hi 👋, I'm [Tvoje ime]</h1>  
-<h3 align="center">A passionate [Tvoja pozicija] from [Tvoja lokacija]</h3>  
+<h1 align="center">Hi 👋, I'm Bruno</h1>
+<h3 align="center">A passionate fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />  
 
-<p align="left"> <a href="https://twitter.com/TvojeTwitter" target="blank"><img src="https://img.shields.io/twitter/follow/TvojeTwitter?logo=twitter&style=for-the-badge" alt="TvojeTwitter"  </p>
-
-- 💬 Ask me about **react, angular, python, django**
-- 📫 How to reach me **obradovicbruno5@gmail.com**
-
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="https://twitter.com/TvojeTwitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TvojeTwitter" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/TvojeLinkedIn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TvojeLinkedIn" height="30" width="40" /></a>  
-<a href="https://instagram.com/TvojInstagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="TvojInstagram" height="30" width="40" /></a>  
-<a href="https://www.youtube.com/c/TvojYouTube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TvojYouTube" height="30" width="40" /></a>  
+<p align="left"> 
+  <a href="https://twitter.com/TvojeTwitter" target="blank">
+    <img src="https://img.shields.io/twitter/follow/TvojeTwitter?logo=twitter&style=for-the-badge" alt="TvojeTwitter" />
+  </a>  
+  <a href="https://linkedin.com/in/TvojeLinkedIn" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="TvojeLinkedIn" />
+  </a>
+  <a href="https://instagram.com/TvojInstagram" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="TvojInstagram" />
+  </a>
+  <a href="https://www.youtube.com/c/TvojYouTube" target="blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="TvojYouTube" />
+  </a>
 </p>  
+
+<!-- Profile Views Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=doomcoder0&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
+</p>
+
+- 💬 Ask me about **react, angular, python, django**  
+- 📫 How to reach me **obradovicbruno5@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left">  
